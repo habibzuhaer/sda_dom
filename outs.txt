@@ -1,0 +1,7 @@
+function authenticote (login , password) {
+if (login ==='login' && password === 'Password') {
+return "You were logger in";
+}else {
+return 'Return is incorrect';
+}
+}
